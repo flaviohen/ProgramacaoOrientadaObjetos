@@ -61,7 +61,9 @@ Caderno - identificação, codigoproduto, quantidadeVendida, totalVenda, dataVen
 
 4. Sobrecarga
 
-5. Polimorfismo
+5. Construtor
 
-6. Herança
+6. Polimorfismo
+
+7. Herança
 
