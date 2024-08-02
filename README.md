@@ -57,9 +57,9 @@ Caderno - identificação, codigoproduto, quantidadeVendida, totalVenda, dataVen
 
 2. Atributos
 
-3. Sobrecarga
+3. Encapsulamento
 
-4. Encapsulamento
+4. Sobrecarga
 
 5. Polimorfismo
 
