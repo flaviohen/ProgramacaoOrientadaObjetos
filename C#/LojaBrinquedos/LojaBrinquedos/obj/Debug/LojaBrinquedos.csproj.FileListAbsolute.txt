@@ -1,0 +1,14 @@
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\Classes e Objetos\LojaBrinquedos\LojaBrinquedos\bin\Debug\LojaBrinquedos.exe.config
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\Classes e Objetos\LojaBrinquedos\LojaBrinquedos\bin\Debug\LojaBrinquedos.exe
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\Classes e Objetos\LojaBrinquedos\LojaBrinquedos\bin\Debug\LojaBrinquedos.pdb
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\Classes e Objetos\LojaBrinquedos\LojaBrinquedos\obj\Debug\LojaBrinquedos.csproj.AssemblyReference.cache
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\Classes e Objetos\LojaBrinquedos\LojaBrinquedos\obj\Debug\LojaBrinquedos.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\Classes e Objetos\LojaBrinquedos\LojaBrinquedos\obj\Debug\LojaBrinquedos.exe
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\Classes e Objetos\LojaBrinquedos\LojaBrinquedos\obj\Debug\LojaBrinquedos.pdb
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\LojaBrinquedos\LojaBrinquedos\bin\Debug\LojaBrinquedos.exe.config
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\LojaBrinquedos\LojaBrinquedos\bin\Debug\LojaBrinquedos.exe
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\LojaBrinquedos\LojaBrinquedos\bin\Debug\LojaBrinquedos.pdb
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\LojaBrinquedos\LojaBrinquedos\obj\Debug\LojaBrinquedos.csproj.AssemblyReference.cache
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\LojaBrinquedos\LojaBrinquedos\obj\Debug\LojaBrinquedos.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\LojaBrinquedos\LojaBrinquedos\obj\Debug\LojaBrinquedos.exe
+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\C#\LojaBrinquedos\LojaBrinquedos\obj\Debug\LojaBrinquedos.pdb

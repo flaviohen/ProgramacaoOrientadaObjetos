@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{035754CC-774F-4DEC-ABC3-C9B9AF4DD87E}|LojaBrinquedos\\LojaBrinquedos.csproj|c:\\users\\flavi\\onedrive\\documentos\\estudo pessoal orientacao a objetos\\c#\\lojabrinquedos\\lojabrinquedos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035754CC-774F-4DEC-ABC3-C9B9AF4DD87E}|LojaBrinquedos\\LojaBrinquedos.csproj|solutionrelative:lojabrinquedos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035754CC-774F-4DEC-ABC3-C9B9AF4DD87E}|LojaBrinquedos\\LojaBrinquedos.csproj|c:\\users\\flavi\\onedrive\\documentos\\estudo pessoal orientacao a objetos\\c#\\lojabrinquedos\\lojabrinquedos\\brinquedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035754CC-774F-4DEC-ABC3-C9B9AF4DD87E}|LojaBrinquedos\\LojaBrinquedos.csproj|solutionrelative:lojabrinquedos\\brinquedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035754CC-774F-4DEC-ABC3-C9B9AF4DD87E}|LojaBrinquedos\\LojaBrinquedos.csproj|C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\lojabrinquedos\\caderno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035754CC-774F-4DEC-ABC3-C9B9AF4DD87E}|LojaBrinquedos\\LojaBrinquedos.csproj|solutionrelative:lojabrinquedos\\caderno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035754CC-774F-4DEC-ABC3-C9B9AF4DD87E}|LojaBrinquedos\\LojaBrinquedos.csproj|C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\lojabrinquedos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035754CC-774F-4DEC-ABC3-C9B9AF4DD87E}|LojaBrinquedos\\LojaBrinquedos.csproj|solutionrelative:lojabrinquedos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035754CC-774F-4DEC-ABC3-C9B9AF4DD87E}|LojaBrinquedos\\LojaBrinquedos.csproj|C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\lojabrinquedos\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035754CC-774F-4DEC-ABC3-C9B9AF4DD87E}|LojaBrinquedos\\LojaBrinquedos.csproj|solutionrelative:lojabrinquedos\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035754CC-774F-4DEC-ABC3-C9B9AF4DD87E}|LojaBrinquedos\\LojaBrinquedos.csproj|C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\lojabrinquedos\\prateleira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035754CC-774F-4DEC-ABC3-C9B9AF4DD87E}|LojaBrinquedos\\LojaBrinquedos.csproj|solutionrelative:lojabrinquedos\\prateleira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brinquedo.cs",
+              "DocumentMoniker": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\LojaBrinquedos\\Brinquedo.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedos\\Brinquedo.cs",
+              "ToolTip": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\LojaBrinquedos\\Brinquedo.cs",
+              "RelativeToolTip": "LojaBrinquedos\\Brinquedo.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwDYAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:19:55.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Caderno.cs",
+              "DocumentMoniker": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\LojaBrinquedos\\Caderno.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedos\\Caderno.cs",
+              "ToolTip": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\LojaBrinquedos\\Caderno.cs",
+              "RelativeToolTip": "LojaBrinquedos\\Caderno.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:46:04.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prateleira.cs",
+              "DocumentMoniker": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\LojaBrinquedos\\Prateleira.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedos\\Prateleira.cs",
+              "ToolTip": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\LojaBrinquedos\\Prateleira.cs",
+              "RelativeToolTip": "LojaBrinquedos\\Prateleira.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:45:46.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\LojaBrinquedos\\Pagamento.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedos\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\LojaBrinquedos\\Pagamento.cs",
+              "RelativeToolTip": "LojaBrinquedos\\Pagamento.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:45:28.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\LojaBrinquedos\\Produto.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedos\\Produto.cs",
+              "ToolTip": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\LojaBrinquedos\\Produto.cs",
+              "RelativeToolTip": "LojaBrinquedos\\Produto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:45:06.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\LojaBrinquedos\\Program.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedos\\Program.cs",
+              "ToolTip": "C:\\Users\\flavi\\OneDrive\\Documentos\\Estudo Pessoal Orientacao a Objetos\\C#\\LojaBrinquedos\\LojaBrinquedos\\Program.cs",
+              "RelativeToolTip": "LojaBrinquedos\\Program.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAwJoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:39:55.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
