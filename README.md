@@ -53,19 +53,19 @@ Caderno - identificação, codigoproduto, quantidadeVendida, totalVenda, dataVen
 
 # Temas a serem abordados
 
-1. Classes e objetos
+1. Classes e objetos - [Video C#](https://youtu.be/5zSbtncSIwg)
 
-2. Atributos
+2. Atributos - [Video C#](https://youtu.be/yx4ZtqP9d_Q)
 
-3. Encapsulamento
+3. Encapsulamento [Video C#](https://youtu.be/8qSYdBRV5_U)
 
-4. Construtor
+4. Construtor [Video C#](https://youtu.be/CUvYLKtwi2k)
    
-5. Metodo ou Função
+5. Metodo ou Função - [Video C#](https://youtu.be/ogn9HZUPDwI)
 
-6. Sobrecarga
+6. Sobrecarga - [Video C#](https://youtu.be/fMK4xoHC2XE)
 
-7. Polimorfismo
+7. Polimorfismo - [Video C#](https://youtu.be/rng55CDNBt4)
 
-8. Herança
+8. Herança - [Video C#](https://youtu.be/NFJd-N5Nazo)
 
