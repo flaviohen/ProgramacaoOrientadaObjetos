@@ -53,19 +53,19 @@ Caderno - identificação, codigoproduto, quantidadeVendida, totalVenda, dataVen
 
 # Temas a serem abordados
 
-1. Classes e objetos - [Video C#](https://youtu.be/5zSbtncSIwg)
+1. Classes e objetos - [Video C#](https://youtu.be/5zSbtncSIwg), [Video Java](https://youtu.be/quJ_r8L_pfk)
 
-2. Atributos - [Video C#](https://youtu.be/yx4ZtqP9d_Q)
+2. Atributos - [Video C#](https://youtu.be/yx4ZtqP9d_Q), [Video Java](https://youtu.be/XtbsymCFBDA)
 
-3. Encapsulamento [Video C#](https://youtu.be/8qSYdBRV5_U)
+3. Encapsulamento [Video C#](https://youtu.be/8qSYdBRV5_U), [Video Java](https://youtu.be/VUqP_Byo8u8)
 
-4. Construtor [Video C#](https://youtu.be/CUvYLKtwi2k)
+4. Construtor [Video C#](https://youtu.be/CUvYLKtwi2k), [Video Java](https://youtu.be/IbWG4YDsRt8)
    
-5. Metodo ou Função - [Video C#](https://youtu.be/ogn9HZUPDwI)
+5. Metodo ou Função - [Video C#](https://youtu.be/ogn9HZUPDwI), [Video Java](https://youtu.be/V-SvWQPHdAQ)
 
-6. Sobrecarga - [Video C#](https://youtu.be/fMK4xoHC2XE)
+6. Sobrecarga - [Video C#](https://youtu.be/fMK4xoHC2XE), [Video Java](https://youtu.be/ZStVbQwN0GI)
 
-7. Polimorfismo - [Video C#](https://youtu.be/rng55CDNBt4)
+7. Polimorfismo - [Video C#](https://youtu.be/rng55CDNBt4), [Video Java](https://youtu.be/JD_dwfiQodA)
 
-8. Herança - [Video C#](https://youtu.be/NFJd-N5Nazo)
+8. Herança - [Video C#](https://youtu.be/NFJd-N5Nazo), [Video Java](https://youtu.be/-nfXStd2C_g)
 
