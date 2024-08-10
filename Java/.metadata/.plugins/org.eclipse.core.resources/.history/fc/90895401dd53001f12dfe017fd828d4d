@@ -1,0 +1,7 @@
+
+public class Produto {
+	int identificacao;
+	int identificacaoUnica;
+	String nomeProduto;
+	String caracteristicasDoProduto;
+}

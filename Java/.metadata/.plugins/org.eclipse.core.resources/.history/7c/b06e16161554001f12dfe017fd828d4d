@@ -1,0 +1,57 @@
+import java.util.Date;
+public class Caderno {
+	private int identificacao;
+	private int codigoProduto;
+	private int quantidadeVendida;
+	private float totalVenda;
+	private Date dataVenda;
+	private int tipoPagamento;
+	
+	public void setIdentificacao(int identificacao) {
+		this.identificacao = identificacao;
+	}
+	
+	public int getIdentificacao() {
+		return this.identificacao;
+	}
+	
+	public void setCodigoProduto(int codigoProduto) {
+		this.codigoProduto = codigoProduto;
+	}
+	
+	public int getCodigoProduto() {
+		return this.codigoProduto;
+	}
+	
+	public void setQuantidadeVendida(int quantidadeVendida) {
+		this.quantidadeVendida = quantidadeVendida;
+	}
+	
+	public int getQuantidadeVendida() {
+		return this.quantidadeVendida;
+	}
+	
+	public void setTotalVenda(float totalVenda) {
+		this.totalVenda = totalVenda;
+	}
+	
+	public float getTotalVenda() {
+		return this.totalVenda;
+	}
+	
+	public void setDataVenda(Date dataVenda) {
+		this.dataVenda = dataVenda;
+	}
+	
+	public Date getDataVenda() {
+		return this.dataVenda;
+	}
+	
+	public void setTipoPagamento(int tipoPagamento) {
+		this.tipoPagamento = tipoPagamento;
+	}
+	
+	public int getTipoPagamento() {
+		return this.tipoPagamento;
+	}
+}

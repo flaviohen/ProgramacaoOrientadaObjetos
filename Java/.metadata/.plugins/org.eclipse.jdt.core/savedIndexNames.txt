@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\flavi\OneDrive\Documentos\Estudo Pessoal Orientacao a Objetos\Java\.metadata\.plugins\org.eclipse.jdt.core
+416863062.index
+2113450643.index
+1865797976.index

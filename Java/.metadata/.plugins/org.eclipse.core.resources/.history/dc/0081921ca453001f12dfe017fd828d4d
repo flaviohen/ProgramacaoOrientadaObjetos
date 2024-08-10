@@ -1,0 +1,81 @@
+import java.sql.Date;
+import java.time.LocalDate;
+public class LojaBrinquedos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		/*Produto objetoProduto;
+		Pagamento objetoPagamento;
+		Prateleira objetoPrateleira;
+		Caderno objetoCaderno;
+		
+		objetoProduto = new Produto();
+		objetoPagamento = new Pagamento();
+		objetoPrateleira = new Prateleira();
+		objetoCaderno = new Caderno();*/
+		
+		//Tem existe as duas formas de criar classes no Java
+		//Agora os arquivos separados
+		
+		Produto objetoProduto;
+		Pagamento objetoPagamento;
+		Prateleira objetoPrateleira;
+		Caderno objetoCaderno;
+		
+		objetoProduto = new Produto();
+		objetoPagamento = new Pagamento();
+		objetoPrateleira = new Prateleira();
+		objetoCaderno = new Caderno();
+		
+		//Vamos adicionar atributos em java
+		objetoProduto.identificacao = 1;
+		objetoProduto.identificacaoUnica = 1;
+		objetoProduto.nomeProduto = "Pião";
+		objetoProduto.caracteristicasDoProduto = "Madeira";
+		
+		System.out.println("Produto: " + objetoProduto.identificacao + "-" + objetoProduto.identificacaoUnica + "-" + objetoProduto.nomeProduto + "-" + objetoProduto.caracteristicasDoProduto);
+		
+		objetoPagamento.identificacao = 1;
+		objetoPagamento.tipoPagamento = "Dinheiro";
+		
+		System.out.println("Pagamento: " + objetoPagamento.identificacao + "-" + objetoPagamento.tipoPagamento);
+		
+		objetoPrateleira.codigoProduto = 1;
+		objetoPrateleira.quantidadeProduto = 2;
+		objetoPrateleira.precoProduto = 2.9f;
+		
+		System.out.println("Prateleira: " + objetoPrateleira.codigoProduto + "-" + objetoPrateleira.quantidadeProduto + "-" + objetoPrateleira.precoProduto);
+		
+		objetoCaderno.identificacao = 1;
+		objetoCaderno.codigoProduto = 1;
+		objetoCaderno.quantidadeVendida = 3;
+		objetoCaderno.totalVenda = objetoCaderno.quantidadeVendida * 2.9f;
+		objetoCaderno.dataVenda = Date.valueOf(LocalDate.now());
+		objetoCaderno.tipoPagamento = 1;
+		
+		System.out.println("Caderno: " + objetoCaderno.identificacao + "-" + objetoCaderno.codigoProduto + "-" + objetoCaderno.quantidadeVendida + "-" + objetoCaderno.totalVenda + "-" + objetoCaderno.dataVenda + "-" + objetoCaderno.tipoPagamento);
+		
+
+	}
+
+}
+
+//Classes
+
+/*class Produto{
+	
+}
+
+class Pagamento{
+	
+}
+
+class Prateleira{
+	
+}
+
+class Caderno{
+	
+}
+*/

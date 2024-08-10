@@ -1,0 +1,60 @@
+
+public class LojaBrinquedos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		/*Produto objetoProduto;
+		Pagamento objetoPagamento;
+		Prateleira objetoPrateleira;
+		Caderno objetoCaderno;
+		
+		objetoProduto = new Produto();
+		objetoPagamento = new Pagamento();
+		objetoPrateleira = new Prateleira();
+		objetoCaderno = new Caderno();*/
+		
+		//Tem existe as duas formas de criar classes no Java
+		//Agora os arquivos separados
+		
+		Produto objetoProduto;
+		Pagamento objetoPagamento;
+		Prateleira objetoPrateleira;
+		Caderno objetoCaderno;
+		
+		objetoProduto = new Produto();
+		objetoPagamento = new Pagamento();
+		objetoPrateleira = new Prateleira();
+		objetoCaderno = new Caderno();
+		
+		//Vamos adicionar atributos em java
+		objetoProduto.identificacao = 1;
+		objetoProduto.identificacaoUnica = 1;
+		objetoProduto.nomeProduto = "Pião";
+		objetoProduto.caracteristicasDoProduto = "Madeira";
+		
+		System.out.println("Produto: " + objetoProduto.identificacao + "-" + objetoProduto.identificacaoUnica + "-" + objetoProduto.nomeProduto + "-" + objetoProduto.caracteristicasDoProduto);
+		
+
+	}
+
+}
+
+//Classes
+
+/*class Produto{
+	
+}
+
+class Pagamento{
+	
+}
+
+class Prateleira{
+	
+}
+
+class Caderno{
+	
+}
+*/

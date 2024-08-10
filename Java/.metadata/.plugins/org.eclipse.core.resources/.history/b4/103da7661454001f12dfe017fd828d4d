@@ -1,0 +1,85 @@
+import java.sql.Date;
+import java.time.LocalDate;
+
+public class LojaBrinquedos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		/*Produto objetoProduto;
+		Pagamento objetoPagamento;
+		Prateleira objetoPrateleira;
+		Caderno objetoCaderno;
+		
+		objetoProduto = new Produto();
+		objetoPagamento = new Pagamento();
+		objetoPrateleira = new Prateleira();
+		objetoCaderno = new Caderno();*/
+		
+		//Tem existe as duas formas de criar classes no Java
+		//Agora os arquivos separados
+		
+		Produto objetoProduto;
+		Pagamento objetoPagamento;
+		Prateleira objetoPrateleira;
+		Caderno objetoCaderno;
+		
+		objetoProduto = new Produto();
+		objetoPagamento = new Pagamento();
+		objetoPrateleira = new Prateleira();
+		objetoCaderno = new Caderno();
+		
+		//Vamos adicionar atributos em java
+		objetoProduto.setIdentificacao(1);
+		objetoProduto.setIdentificacaoUnica(1);
+		objetoProduto.setNomeProduto("Pião");
+		objetoProduto.setCaracteristicasDoProduto("Madeira");
+		
+		System.out.println("Produto: " + objetoProduto.getIdentificacao() + "-" + objetoProduto.getIdentificacaoUnica() + "-" + objetoProduto.getNomeProduto() + "-" + objetoProduto.getCaracteristicasDoProduto());
+		
+		objetoPagamento.setIdentificacao(1);
+		objetoPagamento.setTipoPagamento("Dinheiro");
+		
+		System.out.println("Pagamento: " + objetoPagamento.getIdentificacao() + "-" + objetoPagamento.getTipoPagamento());
+		
+		objetoPrateleira.setCodigoProduto(1);
+		objetoPrateleira.setQuantidadeProduto(2);
+		objetoPrateleira.setPrecoProduto(2.9f);
+		
+		System.out.println("Prateleira: " + objetoPrateleira.getCodigoProduto() + "-" + objetoPrateleira.getQuantidadeProduto() + "-" + objetoPrateleira.getPrecoProduto());
+		
+		objetoCaderno.setIdentificacao(1);
+		objetoCaderno.setCodigoProduto(1);
+		objetoCaderno.setQuantidadeVendida(3);
+		objetoCaderno.setTotalVenda(objetoCaderno.getQuantidadeVendida() * 2.9f);
+		objetoCaderno.setDataVenda(Date.valueOf(LocalDate.now()));
+		objetoCaderno.setTipoPagamento(1);
+		
+		System.out.println("Caderno: " + objetoCaderno.getIdentificacao() + "-" + objetoCaderno.getCodigoProduto() + "-" + objetoCaderno.getQuantidadeVendida() + "-" + objetoCaderno.getTotalVenda() + "-" + objetoCaderno.getDataVenda() + "-" + objetoCaderno.getTipoPagamento());
+		
+		//Vamos agora ao  encapsulamento de atributos que é a forma segura
+		//atribuir valores aos atributos da classe
+		
+
+	}
+
+}
+
+//Classes
+
+/*class Produto{
+	
+}
+
+class Pagamento{
+	
+}
+
+class Prateleira{
+	
+}
+
+class Caderno{
+	
+}
+*/

@@ -1,0 +1,133 @@
+import java.sql.Date;
+import java.time.LocalDate;
+
+public class LojaBrinquedos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		/*Produto objetoProduto;
+		Pagamento objetoPagamento;
+		Prateleira objetoPrateleira;
+		Caderno objetoCaderno;
+		
+		objetoProduto = new Produto();
+		objetoPagamento = new Pagamento();
+		objetoPrateleira = new Prateleira();
+		objetoCaderno = new Caderno();*/
+		
+		//Tem existe as duas formas de criar classes no Java
+		//Agora os arquivos separados
+		
+		Produto objetoProduto;
+		Pagamento objetoPagamento;
+		Prateleira objetoPrateleira;
+		Caderno objetoCaderno;
+		
+		objetoProduto = new Produto();
+		objetoPagamento = new Pagamento();
+		objetoPrateleira = new Prateleira();
+		objetoCaderno = new Caderno();
+		
+		//Vamos adicionar atributos em java
+		objetoProduto.setIdentificacao(1);
+		objetoProduto.setIdentificacaoUnica(1);
+		objetoProduto.setNomeProduto("Pião");
+		objetoProduto.setCaracteristicasDoProduto("Madeira");
+		
+		System.out.println("Produto: " + objetoProduto.getIdentificacao() + "-" + objetoProduto.getIdentificacaoUnica() + "-" + objetoProduto.getNomeProduto() + "-" + objetoProduto.getCaracteristicasDoProduto());
+		
+		objetoPagamento.setIdentificacao(1);
+		objetoPagamento.setTipoPagamento("Dinheiro");
+		
+		System.out.println("Pagamento: " + objetoPagamento.getIdentificacao() + "-" + objetoPagamento.getTipoPagamento());
+		
+		objetoPrateleira.setCodigoProduto(1);
+		objetoPrateleira.setQuantidadeProduto(2);
+		objetoPrateleira.setPrecoProduto(2.9f);
+		
+		System.out.println("Prateleira: " + objetoPrateleira.getCodigoProduto() + "-" + objetoPrateleira.getQuantidadeProduto() + "-" + objetoPrateleira.getPrecoProduto());
+		
+		objetoCaderno.setIdentificacao(1);
+		objetoCaderno.setCodigoProduto(1);
+		objetoCaderno.setQuantidadeVendida(3);
+		objetoCaderno.setTotalVenda(objetoCaderno.getQuantidadeVendida() * 2.9f);
+		objetoCaderno.setDataVenda(Date.valueOf(LocalDate.now()));
+		objetoCaderno.setTipoPagamento(1);
+		
+		System.out.println("Caderno: " + objetoCaderno.getIdentificacao() + "-" + objetoCaderno.getCodigoProduto() + "-" + objetoCaderno.getQuantidadeVendida() + "-" + objetoCaderno.getTotalVenda() + "-" + objetoCaderno.getDataVenda() + "-" + objetoCaderno.getTipoPagamento());
+		
+		//Vamos agora ao  encapsulamento de atributos que é a forma segura
+		//atribuir valores aos atributos da classe
+		
+		//Vamos aprendar agora os construtores
+		Produto objetoProduto2 = new Produto(2,2,"Pião2","Madeira");
+		Pagamento objetoPagamento2 = new Pagamento(2,"Moeda");
+		Prateleira objetoPrateleira2 = new Prateleira(1,4,6.8f);
+		Caderno objetoCaderno2 = new Caderno(1,2,5,5*6.8f,Date.valueOf(LocalDate.now()),1);
+		
+		
+		System.out.println("Produto: " + objetoProduto2.getIdentificacao() + "-" + objetoProduto2.getIdentificacaoUnica() + "-" + objetoProduto2.getNomeProduto() + "-" + objetoProduto2.getCaracteristicasDoProduto());
+		System.out.println("Pagamento: " + objetoPagamento2.getIdentificacao() + "-" + objetoPagamento2.getTipoPagamento());
+		System.out.println("Prateleira: " + objetoPrateleira2.getCodigoProduto() + "-" + objetoPrateleira2.getQuantidadeProduto() + "-" + objetoPrateleira2.getPrecoProduto());
+		System.out.println("Caderno: " + objetoCaderno2.getIdentificacao() + "-" + objetoCaderno2.getCodigoProduto() + "-" + objetoCaderno2.getQuantidadeVendida() + "-" + objetoCaderno2.getTotalVenda() + "-" + objetoCaderno2.getDataVenda() + "-" + objetoCaderno2.getTipoPagamento());
+		
+		//terminamos construtores
+		//Metodos 
+		Mensagem();
+		Mensagem("Ola Mundo, 2!");
+		
+		
+		
+		
+		//Vamos agora em orientação a objetos usando classes e objetos
+		objetoCaderno2.setIdentificacao(2);
+		objetoCaderno2.setCodigoProduto(2);
+		objetoCaderno2.setQuantidadeVendida(3);
+		objetoCaderno2.setDataVenda(Date.valueOf(LocalDate.now()));
+		objetoCaderno2.setTipoPagamento(1);
+		
+		objetoCaderno2.RegistrarVenda(objetoCaderno2);
+		objetoCaderno2.RegistrarVenda(objetoCaderno2);
+		
+		//vamos ver agora sobre sobrecarga de metodo ou função
+		
+		System.out.println(Mensagem("Ola Mundo", 3));
+		
+
+	}
+	
+	static void Mensagem() {
+		System.out.println("Olá. Mundo!");
+	}
+	
+	static void Mensagem(String mensagem) {
+		System.out.println(mensagem);
+	}
+	
+	static String Mensagem(String mensagem, int numero) {
+		return mensagem + numero + "!";
+	}
+	//o que é metodo ou função com mesmo nome, porem com diferentes quantidade
+	//de parametros
+
+}
+
+//Classes
+
+/*class Produto{
+	
+}
+
+class Pagamento{
+	
+}
+
+class Prateleira{
+	
+}
+
+class Caderno{
+	
+}
+*/

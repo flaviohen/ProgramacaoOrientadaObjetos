@@ -1,0 +1,9 @@
+import java.util.Date;
+public class Caderno {
+	int identificacao;
+	int codigoProduto;
+	int quantidadeVendida;
+	float totalVenda;
+	Date dataVenda;
+	int tipoPagamento;
+}

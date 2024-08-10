@@ -1,0 +1,33 @@
+
+public class Brinquedo extends Produto {
+
+	public void Brincar(int codigoProduto) {
+		
+		switch(codigoProduto) {
+		case 1:
+			System.out.println("O Pião se usa um barbante e enrola nele e assim joga e puxa para fazer rodar");
+			break;
+		case 2:
+			System.out.println("A Bolinha de gude se usa a mão com o dedo polegar para acertar outras bolinhas");
+			break;
+		case 3:
+			System.out.println("A bola de tenis se joga para o outro acertar com taco e lança para longe");
+			break;
+		}
+	}
+	
+	public void Brincar(Produto produto, int codigoProduto) {
+		
+		switch(codigoProduto) {
+		case 1:
+			System.out.println(produto.getIdentificacao() + "-" + "O " + produto.getNomeProduto() + " se usa um barbante e enrola nele e assim joga e puxa para fazer rodar");
+			break;
+		case 2:
+			System.out.println(produto.getIdentificacao() + "-" + "O " + produto.getNomeProduto() + " se usa a mão com o dedo polegar para acertar outras bolinhas");
+			break;
+		case 3:
+			System.out.println(produto.getIdentificacao() + "-" + "O " + produto.getNomeProduto() + " se joga para o outro acertar com taco e lança para longe");
+			break;
+		}
+	}
+}
